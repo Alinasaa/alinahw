@@ -1,6 +1,6 @@
 # alinahw
 ### homework alina
-###### zulya ne spi, delai dz
+###### alina ne spi, delai dz
 
 
 *privetiki*
