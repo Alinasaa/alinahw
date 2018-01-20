@@ -1,4 +1,4 @@
-# alinahw
+# hw1
 ### homework alina
 ###### alina ne spi, delai dz
 
