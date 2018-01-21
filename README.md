@@ -1,29 +1,27 @@
-# hw1
+# example
 ### homework alina
-###### personal information
+###### inf
 
 
-*First name and Surname: Alina Saati*
+*text*
 
-![](https://pp.userapi.com/c639522/v639522327/5d0bf/AYuoHJ45q7g.jpg)
+![](
 
-**DOB:16.12.99**
+**omg**
 
-***Age: 18***
+***yes***
 
-**Credo: *"memento mori"***
+**yes*no***
 
-  [Education](https://www.hse.ru "heaven")
+  [aaaa](https://www.hse.ru "oooo")
   
-The main things in my life:
-1. creation
-2. illumination
-3. catharsis
+1. 
+2.
+3. 
 
-Favourite music bands:
-* The doors
-* Arctic Monkeys
-* The Last Shadow Puppets
+* 
+*
+* 
 
  -
  -
