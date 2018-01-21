@@ -11,7 +11,7 @@
 
 ***Age: 18***
 
-**Credo: *"memento mori" ("помните,что вы умрете")***
+**Credo: *"memento mori"***
 
   [Education](https://www.hse.ru "heaven")
   
@@ -23,4 +23,18 @@ The main things in my life:
 Favourite music bands:
 * The doors
 * Arctic Monkeys
-* The last Shadow Puppets
+* The Last Shadow Puppets
+
+ -
+ -
+ -
+ -
+
+1|2|3
+---|:---:|---:
+да|нет|не знаю
+не знаю|нет|да
+нет|не знаю|да
+нет|да|не знаю
+да|не знаю|нет
+не знаю|да|нет
