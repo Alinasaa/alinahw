@@ -1,22 +1,28 @@
 # hw1
 ### homework alina
-###### alina ne spi, delai dz
+###### personal information
 
 
-*privetiki*
-**chto cluchilos'**
-***horosho***
-**hochu peredat' vsem *bol'shoy* privet**
+*First name and Surname: Alina Saati*
 
-1. wow
-2. kak 
-3. eto 
-4. rabotaet
+![](https://vk.com/doc54786722_453384028?hash=fe50941f2eb4053646&dl=28a7231ff5bbb97594)
 
-* chto
-* gde
-* kogda
-  - zachem
-  - pochemu
+**DOB:16.12.99**
+
+***Age: 18***
+
+**Credo: *"memento mori" ("помните,что вы умрете")***
+
+  [Education](https://www.hse.ru "heaven")
   
-  [shkola](https://www.hse.ru "moya shkolka")
+The main things in my life:
+1. creation
+2. illumination
+3. catharsis
+
+Favourite music bands:
+* The doors
+* Arctic Monkeys
+* The last Shadow Puppets
+  - 
+  - 
