@@ -5,7 +5,7 @@
 
 *First name and Surname: Alina Saati*
 
-![](https://vk.com/doc54786722_453384028?hash=fe50941f2eb4053646&dl=28a7231ff5bbb97594)
+![](https://pp.userapi.com/c639522/v639522327/5d0bf/AYuoHJ45q7g.jpg)
 
 **DOB:16.12.99**
 
@@ -24,5 +24,3 @@ Favourite music bands:
 * The doors
 * Arctic Monkeys
 * The last Shadow Puppets
-  - 
-  - 
